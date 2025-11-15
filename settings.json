@@ -1,0 +1,37 @@
+{
+    "store": {
+        "name": "ElectroFix Solutions",
+        "gstin": "27ABCDE1234F1Z5",
+        "address": "Your Store Address",
+        "phone": "7096922727",
+        "email": "store@gmail.com",
+        "logo": "assets/logo.png"
+    },
+    "billing": {
+        "gst_percent": 18,
+        "show_hsn": true,
+        "auto_invoice": true,
+        "repair_estimator": true,
+        "barcode_scanning": true
+    },
+    "notifications": {
+        "email_enabled": false,
+        "email_user": "",
+        "email_app_password": "",
+        "whatsapp_enabled": false,
+        "twilio_sid": "",
+        "twilio_token": "",
+        "daily_report": false
+    },
+    "cloud": {
+        "drive_backup_enabled": false
+    },
+    "printing": {
+        "auto_open_pdf": true,
+        "auto_print": false
+    },
+    "appearance": {
+        "theme": "dark",
+        "accent_color": "blue"
+    }
+}
